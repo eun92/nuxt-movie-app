@@ -1,4 +1,27 @@
-# nuxt-movie-app
+# 프로젝트<br>
+
+### 영화 검색 사이트<br>
+
+영화 관련 정보를 검색해 볼 수 있는 사이트<br>
+heroku url : https://heroku-nuxt-movie-app.herokuapp.com/ <br>
+
+![image](https://user-images.githubusercontent.com/62632252/154218039-27a7339d-2703-4216-866f-446af5096e34.png)
+
+# Skills
+
+1. database : OMDB Api
+2. js framework : Nuxt Vue.js
+3. style : SCSS
+4. ui framework : Bootstrap
+5. hosting : heroku
+
+# 주요 기능
+
+1. 영화 검색 시 omdb api에서 받아온 데이터로 영화 목록 출력
+2. 영화 상세 정보 제공
+
+![Feb-16-2022 16-46-33](https://user-images.githubusercontent.com/62632252/154219232-1017686e-0412-456a-be48-d5c90c650e77.gif)
+![Feb-16-2022 16-47-05](https://user-images.githubusercontent.com/62632252/154219249-3ce95a5b-455a-4810-a4a7-fad6f2c024ca.gif)
 
 ## Build Setup
 
